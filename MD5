@@ -1,0 +1,17 @@
+2d6a5cf63b0a31b105790e556308ee6f *DESCRIPTION
+fa522c82d36e9d4a31027b25ae535519 *NAMESPACE
+e470104e9d6d02f21d3112d4eca92272 *R/ecpc.R
+c2dbfd3d3f4ddc5fcc4599b31c8bdfbe *build/partial.rdb
+c0064c49951df2cdef9db228c45db123 *man/createGroupset.Rd
+a574b0504084ebbde20830c24dc46aaf *man/cv.ecpc.Rd
+5d16994e987dd36d683a48135438d481 *man/ecpc-package.Rd
+f11e31b0fbab03eda12e8837c542e248 *man/ecpc.Rd
+edd7cc6c91526cd9ecdc74d0354aa23d *man/hierarchicalLasso.Rd
+2c161685c579f852b67722dffd2f7a0d *man/obtainHierarchy.Rd
+5241893adcc375a9043b8b58aa8fb0aa *man/postSelect.Rd
+a6bee8c7fcbe83d2e05a6e59f56dd1a1 *man/produceFolds.Rd
+f12e8b34c3e58627c40ca1f51e7aa83f *man/simDat.Rd
+1dba24f71fed74b8e9f41e919b9bcd92 *man/splitMedian.Rd
+3bd151a847797bca0f6c63e00d2a8dcf *man/visualiseGroupset.Rd
+a783fcb1a2932e176c9239baff94dae3 *man/visualiseGroupsetweights.Rd
+dc4155925adce299bc83f17ce27bf6dc *man/visualiseGroupweights.Rd
