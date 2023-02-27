@@ -1,9 +1,9 @@
-ac6e9f63fc74434a6f99bcef23508c2c *DESCRIPTION
+01d87c0bca54d3b6d36007f0481c0945 *DESCRIPTION
 ec3bdba87d39c3c1802d97cd414bc424 *NAMESPACE
-3cbc99a9a87ae5a9d6cb91b3e2e095e5 *R/ecpc.R
+0f1db46cc669e19a330423cfccc7da6d *R/ecpc.R
 05e76b20022c4cfb22c7168c1529b56c *R/ecpc_methods.R
 23a8f3012ec249b1f8495557c28c3ec7 *R/functions_create.R
-1a9ac2c7d2ebbefbf96334459377f12e *build/partial.rdb
+9098b5ea221098c520a04653657b1330 *build/partial.rdb
 c8e6cbf592e8188317abdb05c0c518f3 *man/coef.ecpc.Rd
 6a99f37d92eda02bf4347cb46e9eefcd *man/createCon.Rd
 bdb2102a920f490fead7247d0d18282d *man/createGroupset.Rd
